@@ -24,7 +24,7 @@ theme = "airspace-hugo"
     url = "#home"
   [[menu.footer]]
     weight = 1
-    name = "About us"
+    name = "About Us"
     url = "#about"
   [[menu.footer]]
     weight = 2
@@ -72,8 +72,8 @@ theme = "airspace-hugo"
 
   [params.call]
     enable = true
-    title = "We design delightful digital experiences."
-    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+    title = "Open all summer!"
+    paragraph = "Good For Groups | Good For Kids | Outdoor Seating | Takes Reservations | Take Out | Walk-Ins Welcome"
 
   [params.contactInfo]
     enable = true
