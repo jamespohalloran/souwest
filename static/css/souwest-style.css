@@ -21,3 +21,16 @@
   padding-bottom: 107px;
   position: relative;
 }
+
+.contact-container
+{
+  padding: 25px;
+  background-color: white;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.mapouter
+{
+  margin: auto;
+}

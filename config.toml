@@ -72,8 +72,8 @@ theme = "airspace-hugo"
 
   [params.feature]
     enable = true
-    title = "We believe in great ideas"
-    content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    title = "Come visit us!"
+    content = "6377a Prince Edward Island 20, Green Gables, PE C0A 1M0"
     [params.feature.button]
       caption = "View Works"
       url = "#"
@@ -82,6 +82,13 @@ theme = "airspace-hugo"
     enable = true
     title = "We design delightful digital experiences."
     paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+
+  [params.contactInfo]
+    enable = true
+    title = "Come visit us!"
+    hours = "9-5 Monday - Friday<br/>9-7 Saturday - Sunday"
+    phone = "(902) 315-2323"
+    address = "6377a Prince Edward Island 20,<br/>Green Gables, PE C0A 1M0"
 
   [params.contact]
     enable = true
