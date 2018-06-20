@@ -8,32 +8,32 @@ theme = "airspace-hugo"
   [[menu.header]]
     weight = 2
     name = "About"
-    url = "#about"
+    url = "#intro"
   [[menu.header]]
     weight = 3
     name = "Menu"
-    url = "#menu"
+    url = "#service"
   [[menu.header]]
     weight = 4
     name = "Location"
-    url = "#location"
+    url = "#feature"
 
   [[menu.footer]]
     weight = 1
     name = "Home"
-    url = "#home"
-  [[menu.footer]]
-    weight = 1
-    name = "About Us"
-    url = "#about"
+    url = "/"
   [[menu.footer]]
     weight = 2
-    name = "Menu"
-    url = "#menu"
+    name = "About Us"
+    url = "#intro"
   [[menu.footer]]
     weight = 3
+    name = "Menu"
+    url = "#service"
+  [[menu.footer]]
+    weight = 4
     name = "Location"
-    url = "#location"
+    url = "#feature"
 
 # The site's parameters
 [params]
@@ -45,6 +45,17 @@ theme = "airspace-hugo"
   date_format = "6 January 2006"
 
   home = "Home"
+
+  [[params.photogallery]]
+    img = "/souwest-port.jpg"
+  [[params.photogallery]]
+    img = "/souwest-port.jpg"
+  [[params.photogallery]]
+    img = "/souwest-port.jpg"
+
+  [params.photofeed]
+  instagramApiKey = "115568609"
+
 
   [params.slider]
     enable = true
