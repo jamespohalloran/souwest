@@ -2,6 +2,35 @@
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
 - type: field_group_list
   label: sections
   name: sections
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: textarea
+    name: description
+    label: description
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: textarea
+      name: description
+      label: description
+    - type: list
+      label: prices
+      name: prices
+    - type: list
+      name: upgrades
+      label: upgrades
