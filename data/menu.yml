@@ -1,0 +1,33 @@
+title: Menu
+subtitle: info about the menu
+sections:
+- name: Seafood Chowder
+  items:
+    - name: SEAFOOD CHOWDER
+      description: Rich, substantial and creamy with vegtables and lots of seafood. Served with hearty bread.
+      prices: 
+        - side 6
+        - full 10
+      upgrades:
+        - Add chicken 5
+        - Add ribs 15
+    - name: SEAFOOD CHOWDER
+      description: Rich, substantial and creamy with vegtables and lots of seafood. Served with hearty bread.
+      prices: 
+        - side 6
+        - full 10
+      upgrades:
+        - Add chicken 5
+        - Add ribs 15
+- name: Seafood Chowder 2
+  items:
+    - name: SEAFOOD CHOWDER
+      description: Rich, substantial and creamy with vegtables and lots of seafood. Served with hearty bread.
+      prices: 
+        - side 6
+        - full 10
+      upgrades:
+        - Add chicken 5
+        - Add ribs 15
+
+    
