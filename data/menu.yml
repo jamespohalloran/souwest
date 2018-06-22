@@ -5,9 +5,6 @@ sections:
 - name: Starters and Sharing
   description: ''
   items:
-  - name: Coconut Shrimp
-    description: Large, seasoned breaded shrimp served golden brown with mango-chili
-      dipping sauce
   - name: SEAFOOD CHOWDER
     description: |-
       Rich, substantial and creamy with vegetables and lots of seafood.
@@ -23,6 +20,15 @@ sections:
     prices:
     - 15
     upgrades: []
+  - name: Coconut Shrimp
+    description: Large, seasoned breaded shrimp served golden brown with mango-chili
+      dipping sauce
+  - name: Chicken Wings (GF)
+    description: '1-pound naked wings fried until golden, tossed in a sauce of your
+      choice: honey-garlic, BBQ, mango chili, buffalo-ranch or salt & pepper. Served
+      with celery, carrot sticks and blue cheese dressing.'
+    prices:
+    - 13
 - name: Seafood Chowder 2
   description: test test
   items:
