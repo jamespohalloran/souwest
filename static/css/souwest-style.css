@@ -69,3 +69,31 @@
   color: red;
   text-transform: uppercase;
 }
+
+#slider {
+  height: calc(100vh - 100px);
+  padding-top:10vh;
+  padding-bottom: 0px;
+}
+
+@media only screen and (max-width: 767px)
+{
+  #slider 
+  {
+    padding: 0px;
+  }
+}
+
+#intro, #service {
+  padding: 50px;
+}
+
+.section-title
+{
+  margin-bottom: 20px;
+}
+
+#service .row 
+{
+  margin-bottom: 20px;
+}
