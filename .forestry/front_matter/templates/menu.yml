@@ -34,3 +34,5 @@ fields:
     - type: list
       name: upgrades
       label: upgrades
+data_files:
+- data/menu.yml

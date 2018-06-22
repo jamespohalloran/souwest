@@ -1,35 +1,34 @@
+---
 title: Menu
 subtitle: info about the menu
 sections:
-- name: Seafood Chowder
-  description: 
+- name: Starters and Sharing
+  description: ''
   items:
-    - name: SEAFOOD CHOWDER
-      description: Rich, substantial and creamy with vegtables and lots of seafood. Served with hearty bread.
-      prices: 
-        - side 6
-        - full 10
-      upgrades:
-        - Add chicken 5
-        - Add ribs 15
-    - name: SEAFOOD CHOWDER
-      description: Rich, substantial and creamy with vegtables and lots of seafood. Served with hearty bread.
-      prices: 
-        - side 6
-        - full 10
-      upgrades:
-        - Add chicken 5
-        - Add ribs 15
+  - name: SEAFOOD CHOWDER
+    description: |-
+      Rich, substantial and creamy with vegetables and lots of seafood.
+      Served with hearty bread.
+    prices:
+    - cup 8
+    - bowl 13
+    upgrades: []
+  - name: Baked Crab Dip
+    description: |-
+      Island crab, seasoned cream cheese, sauteed onion, grated cheddar, buttered panko breadcrumbs.
+      Served with hand cut tortillas
+    prices:
+    - 15
+    upgrades: []
 - name: Seafood Chowder 2
   description: test test
   items:
-    - name: SEAFOOD CHOWDER
-      description: Rich, substantial and creamy with vegtables and lots of seafood. Served with hearty bread.
-      prices: 
-        - side 6
-        - full 10
-      upgrades:
-        - Add chicken 5
-        - Add ribs 15
-
-    
+  - name: SEAFOOD CHOWDER
+    description: Rich, substantial and creamy with vegtables and lots of seafood.
+      Served with hearty bread.
+    prices:
+    - side 6
+    - full 10
+    upgrades:
+    - Add chicken 5
+    - Add ribs 15
