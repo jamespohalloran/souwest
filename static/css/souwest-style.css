@@ -55,3 +55,13 @@
 {
   max-width: 30%;
 }
+
+.menu-pricing
+{
+  text-align: center;
+}
+
+.menu-pricing h4 {
+  color: red;
+  text-transform: uppercase;
+}

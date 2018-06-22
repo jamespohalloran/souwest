@@ -14,17 +14,20 @@
     {{ range .Site.Data.menu.sections }}
       <div class="row">
         <h3>{{ .name }}</h3>
+        <p>{{ .description }}</p>
         {{ range .items }}
         <div class="col-sm-6 col-md-3">
           <div class="service-item">
             <h4>{{ .name }}</h4>
             <p>{{ .description }}</p>
-            {{ range .prices }}
-              <b>{{ . }}</b> |
-            {{ end }}<br/>
-            {{ range .upgrades }}
-              <b>{{ . }} </b>
-            {{ end }}
+            <div class="menu-pricing">
+              {{ range $index, $element := .prices }}
+                <b>{{ if gt $index 0 }} | {{end}}{{ $element }}</b>
+              {{ end }}<br/>
+              {{ range $index, $element := .upgrades }}
+                <b>{{ if gt $index 0 }} | {{end}}{{ . }} </b>
+              {{ end }}
+            </div>
           </div>
         </div>
         {{ end }}

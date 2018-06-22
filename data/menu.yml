@@ -2,6 +2,7 @@ title: Menu
 subtitle: info about the menu
 sections:
 - name: Seafood Chowder
+  description: 
   items:
     - name: SEAFOOD CHOWDER
       description: Rich, substantial and creamy with vegtables and lots of seafood. Served with hearty bread.
@@ -20,6 +21,7 @@ sections:
         - Add chicken 5
         - Add ribs 15
 - name: Seafood Chowder 2
+  description: test test
   items:
     - name: SEAFOOD CHOWDER
       description: Rich, substantial and creamy with vegtables and lots of seafood. Served with hearty bread.
