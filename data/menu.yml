@@ -40,6 +40,15 @@ sections:
       cream and salsa.
     prices:
     - 15
+  - name: CAESAR SALAD (GFO)
+    description: Chopped romaine tossed with bacon bits, seasoned croutons, house
+      made lemon-garlic vinaigrette and fresh grated parmesan. Served with crisps.
+    prices:
+    - side 6
+    - full 12
+    upgrades:
+    - Add chicken 5
+    - Add shrimp 8
 - name: Seafood Chowder 2
   description: test test
   items:
