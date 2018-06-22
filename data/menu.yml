@@ -34,6 +34,12 @@ sections:
       green onions, lime crema and fresh grated parmesan.
     prices:
     - 15
+  - name: NACHOS (GF)
+    description: Hand cut corn tortillas loaded with cheddar, seasoned taco beef,
+      green onions, black olives and diced tomatoes. Served with banana peppers, sour
+      cream and salsa.
+    prices:
+    - 15
 - name: Seafood Chowder 2
   description: test test
   items:
