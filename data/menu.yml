@@ -122,6 +122,22 @@ sections:
       spear.
     prices:
     - 20
-  - {}
-  - {}
+  - name: SOU’WEST CHICKEN WRAP (GFO)
+    description: Grilled or crispy chicken, lettuce, tomato, bacon, cheddar and herb
+      aioli in a flour tortilla. Served with fries, coleslaw, and dill pickle spear.
+      White or whole wheat.
+    prices:
+    - 16
+  - name: CRISPY CHICKEN BLTC (GFO)
+    description: Crispy chicken breast topped with cheddar and bacon, served on a
+      buttered and toasted classic bun with lettuce and tomato. Served with fries,
+      coleslaw and dill pickle spear.
+    prices:
+    - 16
+  - name: CHEF JOANNE’S FISH BURGER
+    description: A Sou’West favorite! Made in house. Seasoned panko crusted burger
+      on a buttered, toasted classic bun, house tartar sauce and lettuce. Served with
+      fries, coleslaw and dill pickle spear.
+    prices:
+    - 16
 - name: Mains
