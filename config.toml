@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com"
+baseURL = "https://jamespohalloran.github.io/souwest/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 title = "Sou'West"
