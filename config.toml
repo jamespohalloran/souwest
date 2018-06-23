@@ -31,7 +31,7 @@ name = "Location"
 url = "#feature"
 weight = 3
 [params]
-date_format = "6 January 2006"
+date_format = "2018-05-01T03:00:00+00:00"
 home = "Home"
 [params.blog]
 enable = true
