@@ -6,30 +6,43 @@
     <div class="row">
       <div class="section-title">
         <h2>{{ .Site.Data.menu.title }}</h2>
-        <p>{{ .Site.Data.menu.subtitle }}</p>
+        {{ with .Site.Data.menu.subtitle}}
+          <div class="col-sm-12 col-md-offset-1 col-md-9">
+            <p>{{ . }}</p>
+          </div>
+        {{ end }}
       </div>
     </div>
 
     <!-- Content -->
     {{ range .Site.Data.menu.sections }}
-      <div class="row">
-        <h3>{{ .name }}</h3>
-        <p>{{ .description }}</p>
-        {{ range .items }}
-        <div class="col-sm-6 col-md-3">
-          <div class="service-item">
-            <h4>{{ .name }}</h4>
-            <p>{{ .description }}</p>
-            <div class="menu-pricing">
-              {{ range $index, $element := .prices }}
-                <b>{{ if gt $index 0 }} | {{end}}{{ $element }}</b>
-              {{ end }}<br/>
-              {{ range $index, $element := .upgrades }}
-                <b>{{ if gt $index 0 }} | {{end}}{{ . }} </b>
-              {{ end }}
+      <div class="menu-section">
+        <div class="row">
+          <h3>{{ .name }}</h3>
+          {{ with .description }}
+          <div class="col-sm-12 col-md-offset-1 col-md-9">
+            <p>{{ . }}</p>
+          </div>
+          {{ end }}
+          {{ range .items }}
+          <div class="col-sm-6 col-md-3">
+            <div class="service-item">
+              <h4>{{ .name }}</h4>
+              <p>{{ .description }}</p>
+              <div class="menu-pricing">
+                {{ range $index, $element := .prices }}
+                  <b>{{ if gt $index 0 }} | {{end}}{{ $element }}</b>
+                {{ end }}<br/>
+                {{ range $index, $element := .upgrades }}
+                  <b>{{ if gt $index 0 }} | {{end}}{{ . }} </b>
+                {{ end }}
+              </div>
             </div>
           </div>
+          {{ end }}
         </div>
+        {{ range $index, $element := .prices }}
+          <b>{{ if gt $index 0 }} | {{end}}{{ $element }}</b>
         {{ end }}
       </div>
     {{ end }}

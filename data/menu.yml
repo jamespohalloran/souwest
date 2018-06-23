@@ -66,8 +66,10 @@ sections:
   description: 'A tasty selection of nibbles for noshing: citrus marinated mussels,
     Maritime smoked salmon, Island gouda, crab cream cheese, kalamata olives, fresh
     fruit, crostini, red onion, capers and lemon.'
+  prices:
+    - 28
   items: []
-- name: NEW LONDONBAYSHELLFISH
+- name: NEW LONDON BAY SHELLFISH
   items:
   - name: MALPEQUE OYSTERS (GFO)
     description: Meaty, succulent, briny and farmed from our local waters. Served

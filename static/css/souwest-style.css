@@ -93,7 +93,20 @@
   margin-bottom: 20px;
 }
 
-#service .row 
+#service .menu-section
 {
   margin-bottom: 20px;
+}
+
+.navbar-brand img
+{
+  height: 80px;
+  margin-top: -24px;
+}
+
+@media only screen and (max-width: 767px)
+{
+  header {
+    padding-bottom: 0px;
+  }
 }
