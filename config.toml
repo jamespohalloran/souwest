@@ -3,6 +3,10 @@ languageCode = "en-us"
 theme = "airspace-hugo"
 title = "Sou'West"
 [[menu.footer]]
+name = "About Us"
+url = "#intro"
+weight = 2
+[[menu.footer]]
 name = "Menu"
 url = "#service"
 weight = 3
@@ -11,17 +15,9 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.footer]]
-name = "About Us"
-url = "#intro"
-weight = 2
-[[menu.footer]]
 name = "Location"
 url = "#feature"
 weight = 4
-[[menu.header]]
-name = "About"
-url = "#intro"
-weight = 1
 [[menu.header]]
 name = "Menu"
 url = "#service"
@@ -30,6 +26,10 @@ weight = 2
 name = "Location"
 url = "#feature"
 weight = 3
+[[menu.header]]
+name = "About"
+url = "#intro"
+weight = 1
 [params]
 date_format = "2018-05-01T03:00:00+00:00"
 home = "Home"
