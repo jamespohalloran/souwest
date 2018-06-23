@@ -77,5 +77,10 @@ sections:
       fresh parmesan.
     prices:
     - 16
-  - {}
+  - name: MUSSELS (GFO)
+    description: '2-pounds of cultivated Island Blue mussels served with melted butter
+      and hearty bread. Flavour selections include: classic white wine, garlic and
+      aeromatics, curry chorizo sausage and tomatoes, tarragon cream or marinara.'
+    prices:
+    - 16
   - {}
