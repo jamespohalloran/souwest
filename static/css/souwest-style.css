@@ -148,3 +148,9 @@
   top: 0;
   right: 0;
 }
+
+.divider
+{
+  padding-left: 10%;
+  padding-right: 10%;
+}

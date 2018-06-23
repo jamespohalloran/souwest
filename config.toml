@@ -82,7 +82,7 @@ theme = "airspace-hugo"
       url = "#"
 
   [params.call]
-    enable = true
+    enable = false
     title = "\"As good as it gets on the North Shore\""
     paragraph = "- Randy M"
 
