@@ -59,7 +59,7 @@ theme = "airspace-hugo"
 
   [params.slider]
     enable = true
-    title = ""
+    title = "Sou'West Bar & Grill"
     subtitle = ""
 
   [params.wrapper]
