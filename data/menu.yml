@@ -160,6 +160,11 @@ sections:
       for mopping up all that delicious sauce!
     prices:
     - 24
-  - {}
+  - name: CHIMICHURRI CHICKEN (GF)
+    description: Chicken supreme stuffed with cheese and sausage; baked until golden.
+      Served with flavourful chimichurri (an argentinian sauce made from fresh herbs,
+      olive oil and vinegar), potatoes or Sou’West rice and seasoned salad.
+    prices:
+    - 24
   - {}
   - {}
