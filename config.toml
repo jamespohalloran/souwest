@@ -89,7 +89,7 @@ theme = "airspace-hugo"
   [params.contactInfo]
     enable = true
     title = "Come visit us!"
-    hours = "9-5 Monday - Friday<br/>9-7 Saturday - Sunday"
+    hours = "9-12 Monday - Friday<br/>9-1 Saturday - Sunday"
     phone = "(902) 315-2323"
     address = "6377a Prince Edward Island 20,<br/>Green Gables, PE C0A 1M0"
 
