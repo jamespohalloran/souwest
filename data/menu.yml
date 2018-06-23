@@ -67,7 +67,7 @@ sections:
     Maritime smoked salmon, Island gouda, crab cream cheese, kalamata olives, fresh
     fruit, crostini, red onion, capers and lemon.'
   prices:
-    - 28
+  - 28
   items: []
 - name: NEW LONDON BAY SHELLFISH
   items:
@@ -94,3 +94,21 @@ sections:
       Deep fried until golden and crisp. Served with soy-ginger dipping sauce.
     prices:
     - 16
+- name: Handhelds
+  items:
+  - name: Fish Tacos
+    description: Seasoned cornmeal crusted haddock, streetslaw, pickled red onion,
+      pico de gallo, lime crema, jalapeno and cilantro in flour tortillas. Served
+      with Sou’West rice.
+    prices:
+    - 18
+  - name: SOU’WEST BURGER (GFO)
+    description: 1/3 pound Island beef patty, cheddar, lettuce, tomato, dill pickles,
+      red onion and house aioli on a buttered toasted classic bun. Served with fries
+      and coleslaw.
+    prices:
+    - single 15
+    - double 17
+    upgrades:
+    - Add bacon 2
+- name: Mains
