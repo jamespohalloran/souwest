@@ -58,15 +58,8 @@ sections:
     upgrades:
     - Add chicken 5
     - Add shrimp 8
-- name: Seafood Chowder 2
-  description: test test
-  items:
-  - name: SEAFOOD CHOWDER
-    description: Rich, substantial and creamy with vegtables and lots of seafood.
-      Served with hearty bread.
-    prices:
-    - side 6
-    - full 10
-    upgrades:
-    - Add chicken 5
-    - Add ribs 15
+- name: CHARCUTERIE
+  description: 'A tasty selection of nibbles for noshing: citrus marinated mussels,
+    Maritime smoked salmon, Island gouda, crab cream cheese, kalamata olives, fresh
+    fruit, crostini, red onion, capers and lemon.'
+  items: []
