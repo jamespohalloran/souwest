@@ -154,3 +154,12 @@
   padding-left: 10%;
   padding-right: 10%;
 }
+
+#feature
+{
+  background: url(../images/souwest-port.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
