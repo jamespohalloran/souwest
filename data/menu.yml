@@ -141,3 +141,25 @@ sections:
     prices:
     - 16
 - name: Mains
+  items:
+  - name: PAN FRIED HADDOCK (GF)
+    description: Dredged in seasoned rice flour; pan seared until golden. Served with
+      lobster sauce, potatoes or Sou’West rice and seasoned salad.
+    prices:
+    - 21
+  - name: BEER BATTERED FISH & CHIPS
+    description: |-
+      Prepared with pale ale. Deep fried until golden and crisp.
+      Served with fries and coleslaw.
+    prices:
+    - 17
+  - name: MUSSEL AND CHORIZO CURRY BOWL (GFO)
+    description: Island cultivated Blue Mussels, local chorizo sausage, tomatoes,
+      onions, peppers, spinach, housemade curry sauce, seasonings, white wine andc
+      ream. Tossed with Thai rice noodles or Sou’West rice. Served with hearty bread
+      for mopping up all that delicious sauce!
+    prices:
+    - 24
+  - {}
+  - {}
+  - {}
