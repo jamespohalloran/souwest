@@ -83,4 +83,8 @@ sections:
       aeromatics, curry chorizo sausage and tomatoes, tarragon cream or marinara.'
     prices:
     - 16
-  - {}
+  - name: TEMPURA OYSTERS OR SHRIMP (GF)
+    description: Freshly shucked oysters or peeled shrimp dipped in tempura batter.
+      Deep fried until golden and crisp. Served with soy-ginger dipping sauce.
+    prices:
+    - 16
