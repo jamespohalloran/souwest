@@ -63,3 +63,11 @@ sections:
     Maritime smoked salmon, Island gouda, crab cream cheese, kalamata olives, fresh
     fruit, crostini, red onion, capers and lemon.'
   items: []
+- name: NEW LONDONBAYSHELLFISH
+  items:
+  - name: MALPEQUE OYSTERS (GFO)
+    description: Meaty, succulent, briny and farmed from our local waters. Served
+      with creamy horseradish, mignonette, cocktail sauce or lemon.
+    prices:
+    - large choice 3.25 each
+    - small choice 2.50 each
