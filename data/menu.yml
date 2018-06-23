@@ -111,4 +111,12 @@ sections:
     - double 17
     upgrades:
     - Add bacon 2
+  - name: Pizza
+    description: 'Personal pan pizza prepared with our very own pizza dough: sausage
+      and bacon, chicken pesto or grilled vegetable.'
+    prices:
+    - 17
+  - {}
+  - {}
+  - {}
 - name: Mains
