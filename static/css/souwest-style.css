@@ -123,3 +123,17 @@
 #call-to-action:before {
   background: #44ade6;
 }
+
+#slider {
+  position: relative;
+}
+
+.about-img
+{
+  border-color: #ddd;
+  border-style: solid;
+}
+
+#intro .block img {
+  padding: 5px;
+}
