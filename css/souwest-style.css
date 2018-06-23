@@ -1,6 +1,6 @@
 #slider {
   background: url("../images/deck.jpg") no-repeat;
-  background-size: cover;
+  background-size: 100%;
   background-attachment: fixed;
   background-position: 10% 50%;
 }
