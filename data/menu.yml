@@ -166,5 +166,12 @@ sections:
       olive oil and vinegar), potatoes or Sou’West rice and seasoned salad.
     prices:
     - 24
-  - {}
-  - {}
+  - name: SCALLOPS (GF)
+    description: Pan seared until golden. Served with lobster sauce, potatoes or Sou’West
+      rice and seasoned salad.
+    prices:
+    - 27
+  - name: SEAFOOD PASTA
+    description: Linguine tossed with scallops, shrimp, mussels, red onion, peppers,
+      spinach, tomatoes, extra virgin olive oil, white wine, garlic and seasonings.
+      Finished with freshly grated parmesan and a drizzle of chimichurri sauce.
