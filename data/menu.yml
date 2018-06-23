@@ -116,7 +116,12 @@ sections:
       and bacon, chicken pesto or grilled vegetable.'
     prices:
     - 17
-  - {}
+  - name: LOBSTER AND CRAB ROLL (GFO)
+    description: Local lobster and crab combined with mayonnaise and seasonings on
+      a buttered and toasted classic bun. Served with fries, coleslaw and dill pickle
+      spear.
+    prices:
+    - 20
   - {}
   - {}
 - name: Mains
