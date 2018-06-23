@@ -49,6 +49,15 @@ sections:
     upgrades:
     - Add chicken 5
     - Add shrimp 8
+  - name: Grains, Legumes, and Greens (GFO)
+    description: Baby greens, quinoa, red lentils, red onion, cherry tomatoes, radish,
+      beets and goat cheese tossed with house made maple balsamic vinaigrette
+    prices:
+    - side 8
+    - full 14
+    upgrades:
+    - Add chicken 5
+    - Add shrimp 8
 - name: Seafood Chowder 2
   description: test test
   items:
