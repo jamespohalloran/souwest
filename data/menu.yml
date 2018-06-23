@@ -71,3 +71,11 @@ sections:
     prices:
     - large choice 3.25 each
     - small choice 2.50 each
+  - name: SOU’WEST OYSTERS ROCKEFELLER
+    description: Oysters on the half shell with garlic, shallots, diced tomatoes,
+      spinach, bacon and buttered panko. Baked until golden and bubbling. Topped with
+      fresh parmesan.
+    prices:
+    - 16
+  - {}
+  - {}
