@@ -23,6 +23,8 @@ sections:
   - name: Coconut Shrimp
     description: Large, seasoned breaded shrimp served golden brown with mango-chili
       dipping sauce
+    prices:
+    - 15
   - name: Chicken Wings (GF)
     description: '1-pound naked wings fried until golden, tossed in a sauce of your
       choice: honey-garlic, BBQ, mango chili, buffalo-ranch or salt & pepper. Served
