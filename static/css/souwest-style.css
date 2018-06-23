@@ -35,6 +35,11 @@
   margin: auto;
 }
 
+.mapouter, .gmap_canvas, .mapouter iframe
+{
+  max-width: 100%;
+}
+
 .navbar-brand
 {
   font-size: 42px;
