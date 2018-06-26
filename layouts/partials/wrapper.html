@@ -6,9 +6,10 @@
         <div class="block">
           <div class="section-title">
             <h2>{{ .Site.Params.wrapper.title }}</h2>
-            <p>{{ .Site.Params.wrapper.italic }}</p>
+            <p>{{ with .Site.Params.wrapper.italic  }}{{ . | safeHTML }}{{ end }}
+            </p>
           </div>
-          <p>{{ .Site.Params.wrapper.paragraph }}</p>
+          <p>{{ with .Site.Params.wrapper.paragraph }}{{ . | safeHTML }}{{ end }}</p>
         </div>
       </div><!-- .col-md-7 close -->
       <div class="col-md-5 col-sm-12">

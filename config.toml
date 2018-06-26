@@ -76,11 +76,11 @@ instagramApiKey = "115568609"
 [params.slider]
 enable = true
 subtitle = ""
-title = "Sou'West Bar & Grill"
+title = ""
 [params.wrapper]
 enable = true
-italic = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-paragraph = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id"
+italic = ""
+paragraph = "You could say there's salt water in our veins.<br>We love people, fish, shellfish and fishing. We love the sea.<br><br>The mussels, lobster, clams, oysters, and cherry stone quahogs that grow right in front of Sou'West are our pride and joy to serve you."
 title = "About Us"
 [[params.photogallery]]
 img = "/souwest-port.jpg"
