@@ -37,6 +37,34 @@ home = "Home"
 enable = true
 subtitle = "Catch up with us, anytime and anywhere"
 title = "Get The Latest On What We're doing"
+[params.gallery]
+enable = true
+title = "The Views"
+[[params.gallery.images]]
+alt = "sou west port"
+img = "/images/souwest-port.jpg"
+[[params.gallery.images]]
+alt = "sou west sunny deck"
+img = "/images/deck_day.jpg"
+[[params.gallery.images]]
+alt = "sou west evening deck"
+img = "/images/deck_night.png"
+[[params.gallery.images]]
+alt = "sou west sunset"
+img = "/images/deck_sunset.jpg"
+[[params.gallery.images]]
+alt = "sou west oysters pei"
+img = "/images/oysters.jpg"
+[[params.gallery.images]]
+alt = "sou west port"
+img = "/images/souwest-port.jpg"
+[[params.gallery.images]]
+alt = "sou west restaurant"
+img = "/images/inner_souwest.jpg"
+[[params.gallery.images]]
+alt = "sou west deck"
+img = "/images/deck.jpg"
+
 [params.call]
 enable = false
 paragraph = "- Randy M"

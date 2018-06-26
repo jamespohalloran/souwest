@@ -25,6 +25,10 @@
 		{{ partial "service.html" . }}
 	{{ end }}
 
+	{{ if and (isset .Site.Params "gallery") (.Site.Params.gallery.enable) }}
+	{{ partial "gallery.html" . }}
+{{ end }}
+
 	{{ if and (isset .Site.Params "feature") (.Site.Params.feature.enable) }}
 		{{ partial "feature.html" . }}
 	{{ end }}
