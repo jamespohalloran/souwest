@@ -1,0 +1,15 @@
+
+<section id="gallery">
+    <div class="container">
+    <div class="row">
+      <div class="section-title">
+          <h2>{{ .Site.Params.gallery.title }}</h2>
+      </div>
+    </div>
+    <div class="img-gallery">
+        {{ range .Site.Params.gallery.images }}
+          <div class="gallery-img-container"><div class="img" style="background-image:url('{{$.Site.BaseURL}}{{ .img }}')"></div> </div>
+        {{end}}
+    </div>
+  </div>
+</section>
