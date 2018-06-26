@@ -3,33 +3,33 @@ languageCode = "en-us"
 theme = "airspace-hugo"
 title = "Sou'West"
 [[menu.footer]]
-name = "About Us"
-url = "#intro"
-weight = 2
-[[menu.footer]]
-name = "Menu"
-url = "#service"
-weight = 3
+name = "Location"
+url = "#feature"
+weight = 4
 [[menu.footer]]
 name = "Home"
 url = "/"
 weight = 1
 [[menu.footer]]
-name = "Location"
-url = "#feature"
-weight = 4
-[[menu.header]]
 name = "Menu"
 url = "#service"
+weight = 3
+[[menu.footer]]
+name = "About Us"
+url = "#intro"
 weight = 2
+[[menu.header]]
+name = "About"
+url = "#intro"
+weight = 1
 [[menu.header]]
 name = "Location"
 url = "#feature"
 weight = 3
 [[menu.header]]
-name = "About"
-url = "#intro"
-weight = 1
+name = "Menu"
+url = "#service"
+weight = 2
 [params]
 date_format = "2018-05-01T03:00:00+00:00"
 home = "Home"
@@ -37,34 +37,6 @@ home = "Home"
 enable = true
 subtitle = "Catch up with us, anytime and anywhere"
 title = "Get The Latest On What We're doing"
-[params.gallery]
-enable = true
-title = "The Views"
-[[params.gallery.images]]
-alt = "sou west port"
-img = "/images/souwest-port.jpg"
-[[params.gallery.images]]
-alt = "sou west sunny deck"
-img = "/images/deck_day.jpg"
-[[params.gallery.images]]
-alt = "sou west evening deck"
-img = "/images/deck_night.png"
-[[params.gallery.images]]
-alt = "sou west sunset"
-img = "/images/deck_sunset.jpg"
-[[params.gallery.images]]
-alt = "sou west oysters pei"
-img = "/images/oysters.jpg"
-[[params.gallery.images]]
-alt = "sou west port"
-img = "/images/souwest-port.jpg"
-[[params.gallery.images]]
-alt = "sou west restaurant"
-img = "/images/inner_souwest.jpg"
-[[params.gallery.images]]
-alt = "sou west deck"
-img = "/images/deck.jpg"
-
 [params.call]
 enable = false
 paragraph = "- Randy M"
@@ -99,6 +71,33 @@ title = "Come visit us!"
 [params.feature.button]
 caption = "View Works"
 url = "#"
+[params.gallery]
+enable = true
+title = "The Views"
+[[params.gallery.images]]
+alt = "sou west port"
+img = "/images/souwest-port.jpg"
+[[params.gallery.images]]
+alt = "sou west sunny deck"
+img = "/images/deck_day.jpg"
+[[params.gallery.images]]
+alt = "sou west evening deck"
+img = "/images/deck_night.png"
+[[params.gallery.images]]
+alt = "sou west sunset"
+img = "/images/deck_sunset.jpg"
+[[params.gallery.images]]
+alt = "sou west oysters pei"
+img = "/images/oysters.jpg"
+[[params.gallery.images]]
+alt = "sou west port"
+img = "/images/souwest-port.jpg"
+[[params.gallery.images]]
+alt = "sou west restaurant"
+img = "/images/inner_souwest.jpg"
+[[params.gallery.images]]
+alt = "sou west deck"
+img = "/images/deck.jpg"
 [params.photofeed]
 instagramApiKey = "115568609"
 [params.slider]
