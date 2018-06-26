@@ -61,8 +61,8 @@ title = "We Also Count in Google Maps"
 [params.contactInfo]
 address = "6377a Prince Edward Island 20,<br/>Green Gables, PE C0A 1M0"
 enable = true
-hours = "9-5 Monday - Friday<br/>9-7 Saturday - Sunday"
-phone = "(902) 315-2323"
+hours = "11am-10pm Monday - Friday<br/>8am-10pm Saturday - Sunday"
+phone = "(902) 886-3000"
 title = "Come visit us!"
 [params.feature]
 content = "6377a Prince Edward Island 20, Green Gables, PE C0A 1M0"
