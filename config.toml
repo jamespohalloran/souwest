@@ -103,7 +103,7 @@ instagramApiKey = "115568609"
 [params.slider]
 enable = true
 subtitle = ""
-title = ""
+title = "The Destination Place on The North Shore"
 [params.wrapper]
 enable = true
 italic = ""
