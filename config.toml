@@ -59,13 +59,13 @@ subject = "Your subject"
 [params.contact.gmaps]
 title = "We Also Count in Google Maps"
 [params.contactInfo]
-address = "6377a Prince Edward Island 20,<br/>Green Gables, PE C0A 1M0"
+address = "6377 Route 20 New London Wharf,<br/>New London, Prince Edward Island, PE C0B 1MO"
 enable = true
 hours = "11am-10pm Monday - Friday<br/>8am-10pm Saturday - Sunday"
 phone = "(902) 886-3000"
 title = "Come visit us!"
 [params.feature]
-content = "6377a Prince Edward Island 20, Green Gables, PE C0A 1M0"
+content = "6377 Route 20 New London Wharf,<br/>New London, PE, PE C0B 1MO"
 enable = true
 title = "Come visit us!"
 [params.feature.button]
@@ -107,7 +107,7 @@ title = ""
 [params.wrapper]
 enable = true
 italic = ""
-paragraph = "The waterfront view, the delicious cuisine and the local draft on tap are three of many reasons why the Sou' West is a destination in the summer months for Islanders and visitor alike.<br/><br/>Sou' West Bar is located in New London, Prince Edward Island along the breathtaking waters of the New London Bay. One of Prince Edward Island's magnificent waterfront dining locations, the Sou' West is sure to please seafood lovers and foodies alike!<br/><br/>Join us for a pint or a lobster dinner. We'll welcome you just the same!"
+paragraph = "The waterfront view, the delicious cuisine and the local draft on tap are three of many reasons why Sou' West is a destination in the summer months for Islanders and visitors alike.<br/><br/>Sou' West Bar is located in New London, Prince Edward Island along the breathtaking waters of the New London Bay. One of Prince Edward Island's magnificent waterfront dining locations, Sou' West is sure to please seafood lovers and foodies alike!<br/><br/>Join us for a pint or a seafood dinner. We'll welcome you just the same!"
 title = "About Us"
 [[params.photogallery]]
 img = "/souwest-port.jpg"
