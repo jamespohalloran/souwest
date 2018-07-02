@@ -50,15 +50,6 @@ address = "North Main Street, Brooklyn Australia"
 email = "Email: contact@mail.com"
 phone = "Phone: +88 01672 506 744"
 title = "Stop by for a visit"
-[[params.contact.social]]
-url = "https://www.facebook.com/souwestbargrill/"
-icon = "fa-facebook"
-[[params.contact.social]]
-url = "https://www.instagram.com/explore/locations/115568609/souwest/"
-icon = "fa-instagram"
-[[params.contact.social]]
-url = "https://twitter.com/souwestbargrill?lang=en"
-icon = "fa-twitter"
 [params.contact.form]
 button = "Send message"
 email = "Your email"
@@ -67,6 +58,15 @@ name = "Your name"
 subject = "Your subject"
 [params.contact.gmaps]
 title = "We Also Count in Google Maps"
+[[params.contact.social]]
+icon = "fa-facebook"
+url = "https://www.facebook.com/souwestbargrill/"
+[[params.contact.social]]
+icon = "fa-instagram"
+url = "https://www.instagram.com/explore/locations/115568609/souwest/"
+[[params.contact.social]]
+icon = "fa-twitter"
+url = "https://twitter.com/souwestbargrill?lang=en"
 [params.contactInfo]
 address = "6377 Route 20 New London Wharf,<br/>New London, Prince Edward Island, PE C0B 1MO"
 enable = true
