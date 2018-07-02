@@ -10,6 +10,15 @@
             {{ end }}
           </ul>
         </div>
+        {{ with .Site.Params.contact }}
+        <ul class="social-icons">
+          {{ range .social }}  
+            <li>
+              <a href="{{ .url }}"><i class="fa {{ .icon }}"></i></a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
         <p>Copyright &copy; Design &amp; Developed by Mighty Pebble. All rights reserved.</p>
       </div>
     </div>

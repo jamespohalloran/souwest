@@ -25,6 +25,13 @@
               {{ range .Site.Menus.header }}
                 <li><a href="{{ .URL }}">{{ .Name }}</a></li>
               {{ end }}
+              {{ with .Site.Params.contact }}
+                {{ range .social }}  
+                  <li class="head-social-icon">
+                    <a href="{{ .url }}"><i class="fa {{ .icon }}"></i></a>
+                  </li>
+                {{ end }}
+              {{ end }}
               </ul>
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container-fluid -->

@@ -177,6 +177,23 @@ header {
   padding-right: 10%;
 }
 
+
+header .navbar-default .navbar-nav li.head-social-icon a
+{ 
+  padding: 10px 10px;
+}
+
+header .navbar-default .navbar-nav li.head-social-icon
+{
+  display: inline-block;
+}
+
+footer ul.social-icons
+{
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+
 #feature
 {
   background: url(../images/souwest-port.jpg);
