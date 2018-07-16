@@ -171,6 +171,13 @@ header {
   padding-top: 40px;
 }
 
+@media (min-width: 1200px)
+{
+  #slider .block {
+    width: 80%;
+  }
+}
+
 .divider
 {
   padding-left: 10%;
