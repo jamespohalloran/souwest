@@ -1,5 +1,7 @@
-<url>
-<loc>{{ .Site.BaseURL }}</loc>
-<lastmod>2018-07-15T12:00:00+00:00</lastmod>
-<priority>1</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ .Site.BaseURL }}</loc>
+    <lastmod>2018-07-15T12:00:00+00:00</lastmod>
+    <priority>1</priority>
+  </url>
+</urlset>
