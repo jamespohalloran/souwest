@@ -35,7 +35,7 @@ date_format = "2018-05-01T03:00:00+00:00"
 home = "Home"
 [params.blog]
 enable = true
-subtitle = "Catch up with us, anytime and anywhere"
+subtitle = "Catch up with us, anytime and anywhere."
 title = "Get The Latest On What We're doing"
 [params.call]
 enable = false
