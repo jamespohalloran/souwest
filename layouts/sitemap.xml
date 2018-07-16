@@ -1,0 +1,4 @@
+<url>
+<loc>{{ .Site.BaseURL }}</loc>
+<priority>1</priority>
+</url>
