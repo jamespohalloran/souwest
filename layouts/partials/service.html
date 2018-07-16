@@ -25,6 +25,14 @@
           </div>
           {{ end }}
           {{ range $index, $item := .items }}
+
+            {{ if mod $index 2 | eq 0 }}
+              <div class="clearfix visible-sm-block"></div>
+            {{ end }}
+            {{ if mod $index 4 | eq 0 }}
+              <div class="clearfix visible-lg-block"></div>
+            {{ end }} 
+
             <div class="col-sm-6 col-md-3">
               <div class="service-item">
                 <h4>{{ $item.name }}</h4>
@@ -39,9 +47,8 @@
                 </div>
               </div>
             </div>
-            {{ if eq $index 3 }}
-              <div class="clearfix"></div>
-            {{ end }}
+
+
           {{ end }}
         </div>
         {{ range $index, $element := .prices }}
