@@ -1,4 +1,4 @@
-baseURL = "https://souwest.ca"
+baseURL = "https://souwest.ca/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 title = "Sou'West"
