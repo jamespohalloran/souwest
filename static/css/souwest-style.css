@@ -144,8 +144,23 @@
 
 .about-img
 {
-  border-color: #ddd;
-  border-style: solid;
+  padding-top: 35px;
+}
+
+
+.about-img iframe
+{
+  border: none;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+@media (max-width: 488px)
+{
+  .about-img 
+  {
+    height: 200px
+  }
 }
 
 #intro .block img {
