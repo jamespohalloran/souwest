@@ -70,7 +70,7 @@ url = "https://twitter.com/souwestbargrill?lang=en"
 [params.contactInfo]
 address = "6377 Route 20 New London Wharf,<br/>New London, Prince Edward Island, PE C0B 1MO"
 enable = true
-hours = "4pm-9pm 7 days a week"
+hours = "4pm-10pm Thursday - Sunday"
 phone = "(902) 886-3000"
 title = "Come visit us!"
 [params.feature]
