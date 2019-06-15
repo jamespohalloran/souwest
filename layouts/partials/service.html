@@ -20,7 +20,7 @@
         <div class="row">
           <h3>{{ .name }}</h3>
           {{ with .description }}
-          <div class="col-sm-12 col-md-offset-1 col-md-9">
+          <div class="col-sm-12">
             <p>{{ . }}</p>
           </div>
           {{ end }}
@@ -40,23 +40,23 @@
               <div class="service-item">
                 <h4>{{ $item.name }}</h4>
                 <p>{{ $item.description }}</p>
-                <div class="menu-pricing">
+            <!--   <div class="menu-pricing">
                   {{ range $index, $element := $item.prices }}
                     <b>{{ if gt $index 0 }} | {{end}}{{ $element }}</b>
                   {{ end }}<br/>
                   {{ range $index, $element := $item.upgrades }}
                     <b>{{ if gt $index 0 }} | {{end}}{{ . }} </b>
                   {{ end }}
-                </div>
+                </div> --> 
               </div>
             </div>
 
 
           {{ end }}
         </div>
-        {{ range $index, $element := .prices }}
+      <!--     {{ range $index, $element := .prices }}
           <b>{{ if gt $index 0 }} | {{end}}{{ $element }}</b>
-        {{ end }}
+        {{ end }}  --> 
       </div>
     {{ end }}
   </div>

@@ -4,176 +4,121 @@ subtitle: At Sou’West we feel that quality and freshness are worth the time an
   So relax, enjoy a beverage on our scenic patio while our Chefs prepare a meal made
   just for you.
 sections:
-- name: Starters and Sharing
+- name: Appetizers
   description: ''
   items:
   - name: SEAFOOD CHOWDER
     description: |-
-      Rich, substantial and creamy with vegetables and lots of seafood.
-      Served with hearty bread.
+      Creamy base conbined with vegetables, seasoning, and lots of local seafood.
     prices:
     - cup 8
     - bowl 13
     upgrades: []
-  - name: Baked Crab Dip
+  - name: Spinach Dip
     description: |-
-      Island crab, seasoned cream cheese, sauteed onion, grated cheddar, buttered panko breadcrumbs.
-      Served with hand cut tortillas
+      Cream cheese, alfredo, onion, spinach, cheese, & spices. Served with nacho chips.
     prices:
     - 15
     upgrades: []
-  - name: Coconut Shrimp
-    description: Large, seasoned breaded shrimp served golden brown with mango-chili
-      dipping sauce
+  - name: Chicken Wings
+    description: 1lb. with your choice of Hot, Medium, Mild, Mango Chili, & Buffalo Ranch.
     prices:
     - 15
-  - name: Chicken Wings (GF)
-    description: '1-pound naked wings fried until golden, tossed in a sauce of your
-      choice: honey-garlic, BBQ, mango chili, buffalo-ranch or salt & pepper. Served
-      with celery, carrot sticks and blue cheese dressing.'
+  - name: Nachos
+    description: 'Chips, olives, green pepper, tomato, & cheese.'
     prices:
     - 13
-  - name: SOU’WEST CHEESY TATERS
-    description: Golden crunchy tater tots tossed with a special spice blend, cheddar,
-      green onions, lime crema and fresh grated parmesan.
+  - name: Mussels
+    description: 1 lb. of fresh island mussels steamed with white wine and garlic. 
     prices:
     - 15
-  - name: NACHOS (GF)
-    description: Hand cut corn tortillas loaded with cheddar, seasoned taco beef,
-      green onions, black olives and diced tomatoes. Served with banana peppers, sour
-      cream and salsa.
+  - name: Seafood Bruschetta
+    description: White wine creamy seafood on toasted bread slices.
     prices:
     - 15
-  - name: CAESAR SALAD (GFO)
-    description: Chopped romaine tossed with bacon bits, seasoned croutons, house
-      made lemon-garlic vinaigrette and fresh grated parmesan. Served with crisps.
+  - name: Baked Crab Dip
+    description: Island crab, seasoned cream cheese, onion, grated cheddar, topped with buttered pank breadcrumbs.
     prices:
     - side 6
     - full 12
     upgrades:
     - Add chicken 5
     - Add shrimp 8
-  - name: Grains, Legumes, and Greens (GFO)
-    description: Baby greens, quinoa, red lentils, red onion, cherry tomatoes, radish,
-      beets and goat cheese tossed with house made maple balsamic vinaigrette
+  - name: Caesar Salad
+    description: Chopped romaine tossed with bacon bits, seasoned croutons, dressing and fresh grated parmesan.
+    prices:
+    - side 8
+    - full 14
+  - name: Garden Salad
+    description: Chopped romaine tossed with tomato, red onion, cucumber and sliced carrot
     prices:
     - side 8
     - full 14
     upgrades:
     - Add chicken 5
     - Add shrimp 8
-- name: CHARCUTERIE
-  description: 'A tasty selection of nibbles for noshing: citrus marinated mussels,
-    Maritime smoked salmon, Island gouda, crab cream cheese, kalamata olives, fresh
-    fruit, crostini, red onion, capers and lemon.'
+- name: Raw Bar
+  description: 'Fresh Prince Edward Island Oysters on the half shell.'
   prices:
   - 28
   items: []
-- name: NEW LONDON BAY SHELLFISH
-  items:
-  - name: MALPEQUE OYSTERS (GFO)
-    description: Meaty, succulent, briny and farmed from our local waters. Served
-      with creamy horseradish, mignonette, cocktail sauce or lemon.
-    prices:
-    - large choice 3.25 each
-    - small choice 2.50 each
-  - name: SOU’WEST OYSTERS ROCKEFELLER
-    description: Oysters on the half shell with garlic, shallots, diced tomatoes,
-      spinach, bacon and buttered panko. Baked until golden and bubbling. Topped with
-      fresh parmesan.
-    prices:
-    - 16
-  - name: MUSSELS (GFO)
-    description: '2-pounds of cultivated Island Blue mussels served with melted butter
-      and hearty bread. Flavour selections include: classic white wine, garlic and
-      aeromatics, curry chorizo sausage and tomatoes, tarragon cream or marinara.'
-    prices:
-    - 16
-  - name: TEMPURA OYSTERS OR SHRIMP (GF)
-    description: Freshly shucked oysters or peeled shrimp dipped in tempura batter.
-      Deep fried until golden and crisp. Served with soy-ginger dipping sauce.
-    prices:
-    - 16
 - name: Handhelds
   items:
   - name: Fish Tacos
-    description: Seasoned cornmeal crusted haddock, streetslaw, pickled red onion,
-      pico de gallo, lime crema, jalapeno and cilantro in flour tortillas. Served
-      with Sou’West rice.
+    description: Two tacos with battered haddock, slaw & inhouse made aioli.
     prices:
     - 18
-  - name: SOU’WEST BURGER (GFO)
-    description: 1/3 pound Island beef patty, cheddar, lettuce, tomato, dill pickles,
-      red onion and house aioli on a buttered toasted classic bun. Served with fries
-      and coleslaw.
+  - name: SOU’WEST BURGER
+    description: 6oz. of Island ground beed, cheddar, bacon, onion, leaf lettuce, & Sou'West sauce on a toasted bun.
     prices:
     - single 15
     - double 17
     upgrades:
     - Add bacon 2
-  - name: Pizza
-    description: 'Personal pan pizza prepared with our very own pizza dough: sausage
-      and bacon, chicken pesto or grilled vegetable.'
+  - name: Lobster Roll
+    description: Island lobster tossed with in house made aioli, celery, lemon and shredded lettuce on a toasted bun.
+    prices:
+    - single 15
+    - double 17
+    upgrades:
+    - Add bacon 2
+  - name: Crispy Chicken Sandwich
+    description: 'Crispy chicken breast topped with cheddar and bacon, served on a toasted brioche bun with lettuce and tomato.'
     prices:
     - 17
-  - name: LOBSTER AND CRAB ROLL (GFO)
-    description: Local lobster and crab combined with mayonnaise and seasonings on
-      a buttered and toasted classic bun. Served with fries, coleslaw and dill pickle
-      spear.
+  - name: Chicken Wrap
+    description: Chicken, lettuce, cheese, ranch & spices wrapped in a grilled tortilla.
     prices:
     - 20
-  - name: SOU’WEST CHICKEN WRAP (GFO)
-    description: Grilled or crispy chicken, lettuce, tomato, bacon, cheddar and herb
-      aioli in a flour tortilla. Served with fries, coleslaw, and dill pickle spear.
-      White or whole wheat.
-    prices:
-    - 16
-  - name: CRISPY CHICKEN BLTC (GFO)
-    description: Crispy chicken breast topped with cheddar and bacon, served on a
-      buttered and toasted classic bun with lettuce and tomato. Served with fries,
-      coleslaw and dill pickle spear.
-    prices:
-    - 16
-  - name: CHEF JOANNE’S FISH BURGER
-    description: A Sou’West favorite! Made in house. Seasoned panko crusted burger
-      on a buttered, toasted classic bun, house tartar sauce and lettuce. Served with
-      fries, coleslaw and dill pickle spear.
-    prices:
-    - 16
 - name: Mains
   items:
-  - name: PAN FRIED HADDOCK (GF)
-    description: Dredged in seasoned rice flour; pan seared until golden. Served with
-      lobster sauce, potatoes or Sou’West rice and seasoned salad.
+  - name: Lobster Dinner
+    description: 1lb. PEI lobster, butter, fresh baked roll, and your choice of two sides. Served hot or cold.
     prices:
     - 21
-  - name: BEER BATTERED FISH & CHIPS
+  - name: Pan Fried Haddock
     description: |-
-      Prepared with pale ale. Deep fried until golden and crisp.
-      Served with fries and coleslaw.
+      Two pieces of battered haddock seared until golden. Served with seasonal veg and your choice of side.
     prices:
     - 17
-  - name: MUSSEL AND CHORIZO CURRY BOWL (GFO)
-    description: Island cultivated Blue Mussels, local chorizo sausage, tomatoes,
-      onions, peppers, spinach, housemade curry sauce, seasonings, white wine andc
-      ream. Tossed with Thai rice noodles or Sou’West rice. Served with hearty bread
-      for mopping up all that delicious sauce!
+  - name: Mac N Cheese
+    description: Spiral pasta with bacon and creamy white wine sauce. Baked until golden brown.
     prices:
     - 24
-  - name: CHIMICHURRI CHICKEN (GF)
-    description: Chicken supreme stuffed with cheese and sausage; baked until golden.
-      Served with flavourful chimichurri (an argentinian sauce made from fresh herbs,
-      olive oil and vinegar), potatoes or Sou’West rice and seasoned salad.
+  - name: Fish & Chips
+    description: Two pieces of freshly battered haddock, fries, tartar & coleslaw.
     prices:
     - 24
-  - name: SCALLOPS (GF)
-    description: Pan seared until golden. Served with lobster sauce, potatoes or Sou’West
-      rice and seasoned salad.
+  - name: Steak Sandwich
+    description: Open faced steak sandwich crispy onions, and garlic aioli served on ciabatta. Served with your choice of side.
     prices:
     - 27
-  - name: SEAFOOD PASTA
-    description: Linguine tossed with scallops, shrimp, mussels, red onion, peppers,
-      spinach, tomatoes, extra virgin olive oil, white wine, garlic and seasonings.
-      Finished with freshly grated parmesan and a drizzle of chimichurri sauce.
+  - name: Chicken Parmesan
+    description: Breaded chicken smothered in tomato sauce and parmesan cheese. Served on top of linguine tomato pasta and garlic bread.
     prices:
     - 24
+  - name: Seafood Pasta
+    description: Fresh local seafood tossed in creamy linguine. Served with garlic toast.
+    prices:
+    - 24
+
