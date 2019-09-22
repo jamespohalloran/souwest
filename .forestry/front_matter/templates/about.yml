@@ -3,8 +3,22 @@ label: about
 hide_body: true
 fields:
 - type: field_group
+  name: slider
+  label: Header
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: boolean
+    name: enable
+    label: enable
+    hidden: true
+  - type: text
+    name: subtitle
+    label: subtitle
+- type: field_group
   name: aboutus
-  label: about us
+  label: About Us
   fields:
   - type: text
     name: title
@@ -20,19 +34,5 @@ fields:
   - type: textarea
     name: paragraph
     label: paragraph
-- type: field_group
-  name: slider
-  label: Header
-  fields:
-  - type: text
-    name: title
-    label: title
-  - type: boolean
-    name: enable
-    label: enable
-    hidden: true
-  - type: text
-    name: subtitle
-    label: subtitle
 pages:
 - data/about.toml
