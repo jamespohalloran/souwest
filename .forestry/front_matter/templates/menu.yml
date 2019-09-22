@@ -1,7 +1,6 @@
 ---
 label: menu
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -35,5 +34,3 @@ fields:
     - type: list
       name: upgrades
       label: upgrades
-data_files:
-- data/menu.yml
