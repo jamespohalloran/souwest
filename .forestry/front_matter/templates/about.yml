@@ -1,0 +1,38 @@
+---
+label: about
+hide_body: true
+fields:
+- type: field_group
+  name: slider
+  label: Header
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: boolean
+    name: enable
+    label: enable
+    hidden: true
+  - type: text
+    name: subtitle
+    label: subtitle
+- type: field_group
+  name: aboutus
+  label: About Us
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: boolean
+    name: enable
+    label: enable
+    hidden: true
+  - type: text
+    name: italic
+    label: italic
+    hidden: true
+  - type: textarea
+    name: paragraph
+    label: paragraph
+pages:
+- data/about.toml

@@ -9,11 +9,11 @@
 
 	{{ partial "header.html" . }}
 
-	{{ if and (isset .Site.Params "slider") (.Site.Params.slider.enable) }}
+	{{ if (.Site.Data.about.slider.enable) }}
 		{{ partial "slider.html" . }}
 	{{ end }}
 
-	{{ if and (isset .Site.Params "wrapper") (.Site.Params.wrapper.enable) }}
+	{{ if (.Site.Data.about.aboutus.enable) }}
 		{{ partial "wrapper.html" . }}
 	{{ end }}
 
@@ -25,11 +25,11 @@
 		{{ partial "service.html" . }}
 	{{ end }}
 
-	{{ if and (isset .Site.Params "gallery") (.Site.Params.gallery.enable) }}
-	{{ partial "gallery.html" . }}
-{{ end }}
+	{{ if (.Site.Data.gallery.enable) }}
+		{{ partial "gallery.html" . }}
+	{{ end }}
 
-	{{ if and (isset .Site.Params "feature") (.Site.Params.feature.enable) }}
+	{{ if (.Site.Data.contact.enable) }}
 		{{ partial "feature.html" . }}
 	{{ end }}
 

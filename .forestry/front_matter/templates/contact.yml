@@ -1,0 +1,56 @@
+---
+label: Contact
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+  hidden: true
+- type: text
+  name: subtitle
+  label: subtitle
+  hidden: true
+- type: text
+  name: title
+  label: title
+  hidden: true
+- type: field_group
+  name: contactInfo
+  label: Contact Info
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: address
+    label: address
+  - type: boolean
+    name: enable
+    label: enable
+    hidden: true
+  - type: datetime
+    name: hours
+    label: hours
+  - type: text
+    name: phone
+    label: phone
+- type: field_group
+  name: gmaps
+  label: google maps
+  fields:
+  - type: text
+    name: title
+    label: title
+- type: field_group_list
+  name: social
+  label: social
+  fields:
+  - type: text
+    name: icon
+    label: icon
+  - type: text
+    name: url
+    label: url
+  description: used in the site footer
+pages:
+- data/contact.toml
