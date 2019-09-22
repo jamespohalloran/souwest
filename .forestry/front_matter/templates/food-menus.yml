@@ -10,7 +10,6 @@ fields:
   label: subtitle
 - type: field_group_list
   name: sections
-  label: sections
   fields:
   - type: text
     name: name
@@ -31,6 +30,9 @@ fields:
     - type: list
       name: prices
       label: prices
+      hidden: true
     - type: list
       name: upgrades
       label: upgrades
+      hidden: true
+  label: food Category
