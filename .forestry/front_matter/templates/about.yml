@@ -1,0 +1,33 @@
+---
+label: about
+hide_body: true
+fields:
+- type: field_group
+  name: aboutus
+  label: aboutus
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: italic
+    label: italic
+  - type: textarea
+    name: paragraph
+    label: paragraph
+  - type: text
+    name: title
+    label: title
+- type: field_group
+  name: slider
+  label: slider
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: subtitle
+    label: subtitle
+  - type: text
+    name: title
+    label: title
