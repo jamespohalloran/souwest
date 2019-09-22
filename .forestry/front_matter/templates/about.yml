@@ -4,7 +4,7 @@ hide_body: true
 fields:
 - type: field_group
   name: aboutus
-  label: aboutus
+  label: about us
   fields:
   - type: text
     name: title
@@ -22,7 +22,7 @@ fields:
     label: paragraph
 - type: field_group
   name: slider
-  label: slider
+  label: Header
   fields:
   - type: text
     name: title
