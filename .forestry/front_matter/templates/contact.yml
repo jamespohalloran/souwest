@@ -5,50 +5,38 @@ fields:
 - type: boolean
   name: enable
   label: enable
+  hidden: true
 - type: text
   name: subtitle
   label: subtitle
+  hidden: true
 - type: text
   name: title
   label: title
+  hidden: true
 - type: field_group
-  name: box
-  label: box
+  name: contactInfo
+  label: Contact Info
   fields:
-  - type: text
-    name: address
-    label: address
-  - type: text
-    name: email
-    label: email
-  - type: text
-    name: phone
-    label: phone
   - type: text
     name: title
     label: title
-- type: field_group
-  name: form
-  label: form
-  fields:
   - type: text
-    name: button
-    label: button
+    name: address
+    label: address
+  - type: boolean
+    name: enable
+    label: enable
+    hidden: true
+  - type: datetime
+    name: hours
+    label: hours
   - type: text
-    name: email
-    label: email
-  - type: text
-    name: message
-    label: message
-  - type: text
-    name: name
-    label: name
-  - type: text
-    name: subject
-    label: subject
+    name: phone
+    label: phone
 - type: field_group
   name: gmaps
-  label: gmaps
+  label: google maps
   fields:
   - type: text
     name: title
@@ -63,22 +51,4 @@ fields:
   - type: text
     name: url
     label: url
-- type: field_group
-  name: contactInfo
-  label: contactInfo
-  fields:
-  - type: text
-    name: address
-    label: address
-  - type: boolean
-    name: enable
-    label: enable
-  - type: datetime
-    name: hours
-    label: hours
-  - type: text
-    name: phone
-    label: phone
-  - type: text
-    name: title
-    label: title
+  description: used in the site footer
