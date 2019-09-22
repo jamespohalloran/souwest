@@ -1,0 +1,20 @@
+---
+label: gallery
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: images
+  label: images
+  fields:
+  - type: text
+    name: alt
+    label: alt
+  - type: file
+    name: img
+    label: img
