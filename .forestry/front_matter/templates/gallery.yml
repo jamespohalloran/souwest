@@ -20,3 +20,5 @@ fields:
     name: alt
     label: alt text
     description: "(used for SEO - add text describing the image)"
+pages:
+- data/gallery.toml
