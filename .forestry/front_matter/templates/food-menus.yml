@@ -1,0 +1,36 @@
+---
+label: Food Menus
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: subtitle
+  label: subtitle
+- type: field_group_list
+  name: sections
+  label: sections
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: description
+    label: description
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: description
+      label: description
+    - type: list
+      name: prices
+      label: prices
+    - type: list
+      name: upgrades
+      label: upgrades
