@@ -25,7 +25,7 @@
 		{{ partial "service.html" . }}
 	{{ end }}
 
-	{{ if and (isset .Site.Params "gallery") (.Site.Params.gallery.enable) }}
+	{{ if (.Site.Data.gallery.enable) }}
 	{{ partial "gallery.html" . }}
 {{ end }}
 

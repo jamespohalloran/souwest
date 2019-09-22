@@ -1,0 +1,26 @@
+enable = true
+title = "The Views"
+[[images]]
+alt = "sou west port"
+img = "/images/souwest-port.jpg"
+[[images]]
+alt = "sou west sunny deck"
+img = "/images/deck_day.jpg"
+[[images]]
+alt = "sou west evening deck"
+img = "/images/deck_night.png"
+[[images]]
+alt = "sou west sunset"
+img = "/images/deck_sunset.jpg"
+[[images]]
+alt = "sou west oysters pei"
+img = "/images/oysters.jpg"
+[[images]]
+alt = "sou west port"
+img = "/images/souwest-port.jpg"
+[[images]]
+alt = "sou west restaurant"
+img = "/images/inner_souwest.jpg"
+[[images]]
+alt = "sou west deck"
+img = "/images/deck.jpg"
