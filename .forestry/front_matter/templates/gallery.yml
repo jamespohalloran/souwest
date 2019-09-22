@@ -5,6 +5,7 @@ fields:
 - type: boolean
   name: enable
   label: enable
+  hidden: true
 - type: text
   name: title
   label: title
@@ -12,9 +13,10 @@ fields:
   name: images
   label: images
   fields:
-  - type: text
-    name: alt
-    label: alt
   - type: file
     name: img
     label: img
+  - type: text
+    name: alt
+    label: alt text
+    description: "(used for SEO - add text describing the image)"
