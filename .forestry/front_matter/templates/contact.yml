@@ -52,3 +52,5 @@ fields:
     name: url
     label: url
   description: used in the site footer
+pages:
+- data/contact.toml

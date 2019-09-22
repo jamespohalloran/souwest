@@ -6,6 +6,12 @@ address = "North Main Street, Brooklyn Australia"
 email = "Email: contact@mail.com"
 phone = "Phone: +88 01672 506 744"
 title = "Stop by for a visit"
+[contactInfo]
+address = "6377 Route 20 New London Wharf,<br/>New London, Prince Edward Island, PE C0B 1MO"
+enable = true
+hours = "11am-12am Monday - Thursday<br/>11am-2am Friday & Saturday"
+phone = "(902) 886-3000"
+title = "Come visit us!"
 [form]
 button = "Send message"
 email = "Your email"
@@ -23,9 +29,3 @@ url = "https://www.instagram.com/explore/locations/115568609/souwest/"
 [[social]]
 icon = "fa-twitter"
 url = "https://twitter.com/souwestbargrill?lang=en"
-[contactInfo]
-address = "6377 Route 20 New London Wharf,<br/>New London, Prince Edward Island, PE C0B 1MO"
-enable = true
-hours = "11am-12am Monday - Thursday<br/>11am-2am Friday & Saturday"
-phone = "(902) 886-3000"
-title = "Come visit us!"
