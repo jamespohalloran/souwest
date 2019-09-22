@@ -5,6 +5,18 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: data/contact.toml
+  label: Contact
+  match: "**/*"
+- type: document
+  path: data/gallery.toml
+  label: Photo Gallery
+  match: "**/*"
+- type: document
+  path: data/about.toml
+  label: About
+  match: "**/*"
+- type: document
   path: data/menu.yml
   label: Food Menu
 upload_dir: static/images
