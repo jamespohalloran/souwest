@@ -25,7 +25,7 @@
               {{ range .Site.Menus.header }}
                 <li><a href="{{ .URL }}">{{ .Name }}</a></li>
               {{ end }}
-              {{ with .Site.Params.contact }}
+              {{ with .Site.Data.contact }}
                 {{ range .social }}  
                   <li class="head-social-icon">
                     <a href="{{ .url }}"><i class="fa {{ .icon }}"></i></a>
