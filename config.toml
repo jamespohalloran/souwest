@@ -41,26 +41,3 @@ title = "Get The Latest On What We're doing"
 enable = false
 paragraph = "- Randy M"
 title = "\"As good as it gets on the North Shore\""
-
-[params.feature]
-content = "6377 Route 20 New London Wharf,<br/>New London, PE, PE C0B 1MO"
-enable = true
-title = "Come visit us!"
-[params.feature.button]
-caption = "View Works"
-url = "#"
-[params.slider]
-enable = true
-subtitle = ""
-title = "The Destination Place on The North Shore"
-[params.wrapper]
-enable = true
-italic = ""
-paragraph = "The waterfront view, the delicious cuisine and the local draft on tap are three of many reasons why Sou'West is a destination in the summer months for Islanders and visitors alike.<br/><br/>Sou'West is located in New London, Prince Edward Island along the breathtaking waters of the New London Bay. One of Prince Edward Island's magnificent waterfront dining locations, Sou'West is sure to please seafood lovers and foodies alike!<br/><br/>Join us for a pint or a seafood dinner. We'll welcome you just the same!"
-title = "About Us"
-[[params.photogallery]]
-img = "/souwest-port.jpg"
-[[params.photogallery]]
-img = "/souwest-port.jpg"
-[[params.photogallery]]
-img = "/souwest-port.jpg"
