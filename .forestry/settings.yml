@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: document
   path: data/menu.yml
-  label: Menu
+  label: Food Menu
   match: "**/*"
 upload_dir: static/images
 public_path: "/images"
