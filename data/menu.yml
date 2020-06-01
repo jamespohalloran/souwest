@@ -8,28 +8,29 @@ sections:
   description: ''
   items:
   - name: SEAFOOD CHOWDER
-    description: |-
-      Creamy base conbined with vegetables, seasoning, and lots of local seafood.
+    description: Creamy base conbined with vegetables, seasoning, and lots of local
+      seafood.
     prices:
     - cup 8
     - bowl 13
     upgrades: []
   - name: Spinach Dip
-    description: |-
-      Cream cheese, alfredo, onion, spinach, cheese, & spices. Served with nacho chips.
+    description: Cream cheese, alfredo, onion, spinach, cheese, & spices. Served with
+      nacho chips.
     prices:
     - 15
     upgrades: []
   - name: Chicken Wings
-    description: 1lb. with your choice of Hot, Medium, Mild, Mango Chili, & Buffalo Ranch.
+    description: 1lb. with your choice of Hot, Medium, Mild, Mango Chili, & Buffalo
+      Ranch.
     prices:
     - 15
   - name: Nachos
-    description: 'Chips, olives, green pepper, tomato, & cheese.'
+    description: Chips, olives, green pepper, tomato, & cheese.
     prices:
     - 13
   - name: Mussels
-    description: 1 lb. of fresh island mussels steamed with white wine and garlic. 
+    description: 1 lb. of fresh island mussels steamed with white wine and garlic.
     prices:
     - 15
   - name: Seafood Bruschetta
@@ -37,7 +38,8 @@ sections:
     prices:
     - 15
   - name: Baked Crab Dip
-    description: Island crab, seasoned cream cheese, onion, grated cheddar, topped with buttered pank breadcrumbs.
+    description: Island crab, seasoned cream cheese, onion, grated cheddar, topped
+      with buttered pank breadcrumbs.
     prices:
     - side 6
     - full 12
@@ -45,12 +47,14 @@ sections:
     - Add chicken 5
     - Add shrimp 8
   - name: Caesar Salad
-    description: Chopped romaine tossed with bacon bits, seasoned croutons, dressing and fresh grated parmesan.
+    description: Chopped romaine tossed with bacon bits, seasoned croutons, dressing
+      and fresh grated parmesan.
     prices:
     - side 8
     - full 14
   - name: Garden Salad
-    description: Chopped romaine tossed with tomato, red onion, cucumber and sliced carrot
+    description: Chopped romaine tossed with tomato, red onion, cucumber and sliced
+      carrot
     prices:
     - side 8
     - full 14
@@ -58,32 +62,35 @@ sections:
     - Add chicken 5
     - Add shrimp 8
 - name: Raw Bar
-  description: 'Fresh Prince Edward Island Oysters on the half shell.'
+  description: Fresh Prince Edward Island Oysters on the half shell.
   prices:
   - 28
   items: []
 - name: Handhelds
   items:
   - name: Fish Tacos
-    description: Two tacos with battered haddock, slaw & inhouse made aioli.
+    description: Battered Haddock, pico, slaw, and in-house made lime crema.
     prices:
     - 18
-  - name: SOU’WEST BURGER
-    description: 6oz. of Island ground beed, cheddar, bacon, onion, leaf lettuce, & Sou'West sauce on a toasted bun.
+  - name: Sou'West Burger
+    description: 6oz. of Island ground beef, cheddar, bacon, onion, leaf lettuce,
+      & Sou'West sauce on a toasted bun.
     prices:
     - single 15
     - double 17
     upgrades:
     - Add bacon 2
   - name: Lobster Roll
-    description: Island lobster tossed with in house made aioli, celery, lemon and shredded lettuce on a toasted bun.
+    description: Island lobster tossed with in house made aioli, celery, lemon and
+      shredded lettuce on a toasted bun.
     prices:
     - single 15
     - double 17
     upgrades:
     - Add bacon 2
   - name: Crispy Chicken Sandwich
-    description: 'Crispy chicken breast topped with cheddar and bacon, served on a toasted brioche bun with lettuce and tomato.'
+    description: Crispy chicken breast topped with cheddar and bacon, served on a
+      toasted brioche bun with lettuce and tomato.
     prices:
     - 17
   - name: Chicken Wrap
@@ -93,16 +100,18 @@ sections:
 - name: Mains
   items:
   - name: Lobster Dinner
-    description: 1lb. PEI lobster, butter, fresh baked roll, and your choice of two sides. Served hot or cold.
+    description: 1lb. PEI lobster, butter, fresh baked roll, and your choice of two
+      sides. Served hot or cold.
     prices:
     - 21
   - name: Pan Fried Haddock
-    description: |-
-      Two pieces of battered haddock seared until golden. Served with seasonal veg and your choice of side.
+    description: Two pieces of battered haddock seared until golden. Served with seasonal
+      veg and your choice of side.
     prices:
     - 17
   - name: Mac N Cheese
-    description: Spiral pasta with bacon and creamy white wine sauce. Baked until golden brown.
+    description: Spiral pasta with bacon and creamy white wine sauce. Baked until
+      golden brown.
     prices:
     - 24
   - name: Fish & Chips
@@ -110,15 +119,17 @@ sections:
     prices:
     - 24
   - name: Steak Sandwich
-    description: Open faced steak sandwich crispy onions, and garlic aioli served on ciabatta. Served with your choice of side.
+    description: Open faced steak sandwich crispy onions, and garlic aioli served
+      on ciabatta. Served with your choice of side.
     prices:
     - 27
   - name: Chicken Parmesan
-    description: Breaded chicken smothered in tomato sauce and parmesan cheese. Served on top of linguine tomato pasta and garlic bread.
+    description: Breaded chicken smothered in tomato sauce and parmesan cheese. Served
+      on top of linguine tomato pasta and garlic bread.
     prices:
     - 24
   - name: Seafood Pasta
-    description: Fresh local seafood tossed in creamy linguine. Served with garlic toast.
+    description: Fresh local seafood tossed in creamy linguine. Served with garlic
+      toast.
     prices:
     - 24
-
