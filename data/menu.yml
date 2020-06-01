@@ -119,8 +119,7 @@ sections:
     prices:
     - 24
   - name: Steak Sandwich
-    description: Open faced steak sandwich crispy onions, and garlic aioli served
-      on ciabatta. Served with your choice of side.
+    description: 6oz. striploin, crispy onions and garlic aioli served on ciabatta.
     prices:
     - 27
   - name: Chicken Parmesan
