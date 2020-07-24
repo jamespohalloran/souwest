@@ -7,6 +7,11 @@ sections:
 - name: Appetizers
   description: ''
   items:
+  - name: Basket of Shrimp
+    description: 'Shrimp tossed in coconut flakes, served with in house made dipping
+      sauce. '
+    prices: ''
+    upgrades: ''
   - name: Antojitos
     description: 'Cream cheese, diced jalapenos, red pepper, and cheese rolled in
       a tortilla. Baked until golden. Served with sour cream. '
