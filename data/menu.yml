@@ -78,6 +78,10 @@ sections:
   items: []
 - name: Handhelds
   items:
+  - name: BBQ Quesadilla
+    description: BBQ chicken, peppers, tomato, green onion, cheese, and BBQ aioli.
+    prices: ''
+    upgrades: ''
   - name: Fish Tacos
     description: Battered Haddock, pico, slaw, and in-house made lime crema.
     prices:
