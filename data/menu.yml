@@ -115,8 +115,8 @@ sections:
     prices: ''
     upgrades: ''
   - name: Pan Fried Haddock
-    description: Two pieces of battered haddock seared until golden. Served with seasonal
-      veg and your choice of side.
+    description: Two pieces of battered haddock seared until golden. Fresh PEI lobster
+      sauce, seasonal veg, and your choice of side.
     prices:
     - 17
   - name: Mac N Cheese
