@@ -109,11 +109,11 @@ sections:
     - 20
 - name: Mains
   items:
-  - name: Lobster Dinner
-    description: 1lb. PEI lobster, butter, fresh baked roll, and your choice of two
-      sides. Served hot or cold.
-    prices:
-    - 21
+  - name: Surf N' Turf
+    description: '8oz. fresh PEI seasoned ribeye, crispy onions, marinated garlic
+      and herb shrimp, seasonal veg and your choice of side. '
+    prices: ''
+    upgrades: ''
   - name: Pan Fried Haddock
     description: Two pieces of battered haddock seared until golden. Served with seasonal
       veg and your choice of side.
