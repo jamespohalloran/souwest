@@ -7,6 +7,11 @@ sections:
 - name: Appetizers
   description: ''
   items:
+  - name: Antojitos
+    description: 'Cream cheese, diced jalapenos, red pepper, and cheese rolled in
+      a tortilla. Baked until golden. Served with sour cream. '
+    prices: ''
+    upgrades: ''
   - name: SEAFOOD CHOWDER
     description: Creamy base conbined with vegetables, seasoning, and lots of local
       seafood.
