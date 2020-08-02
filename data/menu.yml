@@ -116,8 +116,8 @@ sections:
   - name: Surf N' Turf
     description: '8oz. fresh PEI seasoned ribeye, crispy onions, marinated garlic
       and herb shrimp, seasonal veg and your choice of side. '
-    prices: ''
-    upgrades: ''
+    prices: []
+    upgrades: []
   - name: Pan Fried Haddock
     description: Two pieces of battered haddock seared until golden. Fresh PEI lobster
       sauce, seasonal veg, and your choice of side.
