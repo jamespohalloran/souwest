@@ -9,7 +9,7 @@ title = "Stop by for a visit"
 [contactInfo]
 address = "6377 Route 20 New London Wharf,<br/>New London, Prince Edward Island, PE C0B 1MO"
 enable = true
-hours = "11am-12am Monday - Thursday<br/>11am-2am Friday & Saturday"
+hours = ""
 phone = "(902) 886-3000"
 title = "Come visit us!"
 [form]
